@@ -13,9 +13,7 @@
 ## Usage
 
 To build and run the app, use:
-
-```shell
-```
+[
 
 ## Screenshots
 
